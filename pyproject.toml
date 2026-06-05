@@ -1,0 +1,21 @@
+[project]
+name = "asinfu-mcp"
+version = "0.1.0"
+description = "Servidor MCP interno ASINFU - tools y recursos para equipos"
+requires-python = ">=3.11"
+dependencies = [
+    "fastmcp>=2.0",
+]
+
+[project.scripts]
+asinfu = "server:mcp"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+]

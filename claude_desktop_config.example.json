@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "asinfu": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/RUTA/ABSOLUTA/A/asinfu",
+        "run",
+        "server.py"
+      ]
+    }
+  }
+}
