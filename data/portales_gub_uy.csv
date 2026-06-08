@@ -1,0 +1,154 @@
+url;nombre_largo;sigla;grupo_portales;tipo_ambiente;ambiente_portal
+https://www1.gub.uy/contaduria-general-nacion;Contaduría General de la Nación;CGN;Eliminados;portal;staging
+https://www.gub.uy/old-presidencia;Presidencia (versión anterior);OLD PRESIDENCIA;Eliminados;portal;produccion
+https://www1.gub.uy/salud-bucal;Portal Salud Bucal;SALUD BUCAL;Eliminados;portal;staging
+https://www.gub.uy/secretaria-comunicaciones-presidencia;Secretaría de Comunicación de Presidencia;SECCPRES;Eliminados;portal;produccion
+https://www1.gub.uy/secretaria-nacional-ambiente-agua-cambio-climatico;Secretaría Nacional de Ambiente, Agua y Cambio Climático;SNAACC;Eliminados;portal;staging
+https://www1.gub.uy/secretaria-nacional-ciencia-tecnologia;Secretaría Nacional de Ciencia y Tecnología;SENACYT;Eliminados;portal;staging
+https://www1.gub.uy/test-tramites;Portal de Test Trámites;TEST TRAMITES;Eliminados;especial;staging
+https://www1.gub.uy/unidad-asesoramiento-monitoreo-politicas;Unidad de Asesoramiento y Monitoreo de Políticas;UAMP;Eliminados;portal;staging
+https://www.gub.uy/corte-electoral;Corte Electoral;CE;Grupo 3;portal;produccion
+https://www1.gub.uy/direccion-nacional-aduanas;Dirección Nacional de Aduanas;DNA;Grupo 3;portal;staging
+https://www1.gub.uy/infraestructura-datos-espaciales;Infraestructura de Datos Espaciales;IDEuy;Grupo 3;portal;staging
+https://www1.gub.uy/intendencia-cerro-largo;Intendencia de Cerro Largo;ICL;Grupo 3;portal;staging
+https://www1.gub.uy/ministerio-defensa-nacional;Ministerio de Defensa Nacional;MDN;Grupo 3;portal;staging
+https://www1.gub.uy/ministerio-industria-energia-mineria;Ministerio de Industria, Energía y Minería;MIEM;Grupo 3;portal;staging
+https://www1.gub.uy/ministerio-interior;Ministerio del Interior;MI;Grupo 3;portal;staging
+https://www1.gub.uy/ministerio-transporte-obras-publicas;Ministerio de Transporte y Obras Públicas;MTOP;Grupo 3;portal;staging
+https://www1.gub.uy/ministerio-turismo;Ministerio de Turismo;MINTUR;Grupo 3;portal;staging
+https://www1.gub.uy/ministerio-vivienda-ordenamiento-territorial;Ministerio de Vivienda y Ordenamiento Territorial;MVOT;Grupo 3;portal;staging
+https://www1.gub.uy/unidad-reguladora-servicios-energia-agua;Unidad Reguladora de Servicios de Energía y Agua;URSEA;Grupo 3;portal;staging
+https://www.gub.uy/agencia-reguladora-compras-estatales;Agencia Reguladora de Compras Estatales;ARCE;Grupo 4;portal;produccion
+https://www1.gub.uy/agencia-reguladora-compras-estatales;Agencia Reguladora de Compras Estatales;ARCE;Grupo 4;portal;staging
+https://www.gub.uy/agencia-uruguaya-cooperacion-internacional;Agencia Uruguaya de Cooperación Internacional;AUCI;Grupo 4;portal;produccion
+https://www1.gub.uy/agencia-uruguaya-cooperacion-internacional;Agencia Uruguaya de Cooperación Internacional;AUCI;Grupo 4;portal;staging
+https://www.gub.uy/centro-nacional-respuesta-incidentes-seguridad-informatica;Centro Nacional de Respuesta a Incidentes de Seguridad Informática;CERTuy;Grupo 4;portal;produccion
+https://www1.gub.uy/centro-nacional-respuesta-incidentes-seguridad-informatica;Centro Nacional de Respuesta a Incidentes de Seguridad Informática;CERTuy;Grupo 4;portal;staging
+https://www.gub.uy/direccion-general-impositiva;Dirección General Impositiva;DGI;Grupo 4;portal;produccion
+https://www1.gub.uy/direccion-general-impositiva;Dirección General Impositiva;DGI;Grupo 4;portal;staging
+https://www.gub.uy/institucion-nacional-derechos-humanos-uruguay;Institución Nacional de Derechos Humanos;INDDHH;Grupo 4;portal;produccion
+https://www1.gub.uy/institucion-nacional-derechos-humanos-uruguay;Institución Nacional de Derechos Humanos;INDDHH;Grupo 4;portal;staging
+https://www.gub.uy/ministerio-ganaderia-agricultura-pesca;Ministerio de Ganadería, Agricultura y Pesca;MGAP;Grupo 4;portal;produccion
+https://www1.gub.uy/ministerio-ganaderia-agricultura-pesca;Ministerio de Ganadería, Agricultura y Pesca;MGAP;Grupo 4;portal;staging
+https://www.gub.uy/oficina-planeamiento-presupuesto;Oficina de Planeamiento y Presupuesto;OPP;Grupo 4;portal;produccion
+https://www1.gub.uy/oficina-planeamiento-presupuesto;Oficina de Planeamiento y Presupuesto;OPP;Grupo 4;portal;staging
+https://www.gub.uy/secretaria-derechos-humanos-pasado-reciente;Secretaría de Derechos Humanos para el Pasado Reciente;SDHPR;Grupo 4;portal;produccion
+https://www1.gub.uy/secretaria-derechos-humanos-pasado-reciente;Secretaría de Derechos Humanos para el Pasado Reciente;SDHPR;Grupo 4;portal;staging
+https://www.gub.uy/secretaria-nacional-lucha-contra-lavado-activos-financiamiento-terrorismo;Secretaría Nacional para la Lucha contra el Lavado de Activos;SENACLAFT;Grupo 4;portal;produccion
+https://www1.gub.uy/secretaria-nacional-lucha-contra-lavado-activos-financiamiento-terrorismo;Secretaría Nacional para la Lucha contra el Lavado de Activos;SENACLAFT;Grupo 4;portal;staging
+https://www.gub.uy/unidad-acceso-informacion-publica;Unidad de Acceso a la Información Pública;UAIP;Grupo 4;portal;produccion
+https://www1.gub.uy/unidad-acceso-informacion-publica;Unidad de Acceso a la Información Pública;UAIP;Grupo 4;portal;staging
+https://www.gub.uy/unidad-nacional-seguridad-vial;Unidad Nacional de Seguridad Vial;UNASEV;Grupo 4;portal;produccion
+https://www1.gub.uy/unidad-nacional-seguridad-vial;Unidad Nacional de Seguridad Vial;UNASEV;Grupo 4;portal;staging
+https://www.gub.uy/unidad-reguladora-servicios-comunicaciones;Unidad Reguladora de Servicios de Comunicaciones;URSEC;Grupo 4;portal;produccion
+https://www1.gub.uy/unidad-reguladora-servicios-comunicaciones;Unidad Reguladora de Servicios de Comunicaciones;URSEC;Grupo 4;portal;staging
+https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento;Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento;AGESIC;Grupo 5;portal;produccion
+https://www1.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento;Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento;AGESIC;Grupo 5;portal;staging
+https://www.gub.uy/instituto-nacional-estadistica;Instituto Nacional de Estadística;INE;Grupo 5;portal;produccion
+https://www1.gub.uy/instituto-nacional-estadistica;Instituto Nacional de Estadística;INE;Grupo 5;portal;staging
+https://www.gub.uy/junta-transparencia-etica-publica;Junta de Transparencia y Ética Pública;JUTEP;Grupo 5;portal;produccion
+https://www1.gub.uy/junta-transparencia-etica-publica;Junta de Transparencia y Ética Pública;JUTEP;Grupo 5;portal;staging
+https://www.gub.uy/ministerio-educacion-cultura;Ministerio de Educación y Cultura;MEC;Grupo 5;portal;produccion
+https://www1.gub.uy/ministerio-educacion-cultura;Ministerio de Educación y Cultura;MEC;Grupo 5;portal;staging
+https://www.gub.uy/ministerio-relaciones-exteriores;Ministerio de Relaciones Exteriores;MRREE;Grupo 5;portal;produccion
+https://www1.gub.uy/ministerio-relaciones-exteriores;Ministerio de Relaciones Exteriores;MRREE;Grupo 5;portal;staging
+https://www.gub.uy/ministerio-salud-publica;Ministerio de Salud Pública;MSP;Grupo 5;portal;produccion
+https://www1.gub.uy/ministerio-salud-publica;Ministerio de Salud Pública;MSP;Grupo 5;portal;staging
+https://www.gub.uy/portal-ejemplo;Portal de Ejemplo;Ejemplo;Grupo 5;portal;produccion
+https://www1.gub.uy/portal-ejemplo;Portal de Ejemplo;Ejemplo;Grupo 5;portal;staging
+https://www.gub.uy/secretaria-derechos-humanos;Secretaría de Derechos Humanos;SDH;Grupo 5;portal;produccion
+https://www1.gub.uy/secretaria-derechos-humanos;Secretaría de Derechos Humanos;SDH;Grupo 5;portal;staging
+https://www.gub.uy/secretaria-nacional-deporte;Secretaría Nacional del Deporte;SECND;Grupo 5;portal;produccion
+https://www1.gub.uy/secretaria-nacional-deporte;Secretaría Nacional del Deporte;SECND;Grupo 5;portal;staging
+https://www.gub.uy/sistema-nacional-emergencias;Sistema Nacional de Emergencias;SINAE;Grupo 5;portal;produccion
+https://www1.gub.uy/sistema-nacional-emergencias;Sistema Nacional de Emergencias;SINAE;Grupo 5;portal;staging
+https://www.gub.uy/unidad-certificacion-electronica;Unidad de Certificación Electrónica;UCE;Grupo 5;portal;produccion
+https://www1.gub.uy/unidad-certificacion-electronica;Unidad de Certificación Electrónica;UCE;Grupo 5;portal;staging
+https://www.gub.uy/congreso-intendentes;Congreso de Intendentes;CI;Grupo 6;portal;produccion
+https://www1.gub.uy/congreso-intendentes;Congreso de Intendentes;CI;Grupo 6;portal;staging
+https://www.gub.uy/intendencia-lavalleja;Intendencia de Lavalleja;IL;Grupo 6;portal;produccion
+https://www1.gub.uy/intendencia-lavalleja;Intendencia de Lavalleja;IL;Grupo 6;portal;staging
+https://www.gub.uy/junta-departamental-montevideo;Junta Departamental de Montevideo;JDM;Grupo 6;portal;produccion
+https://www1.gub.uy/junta-departamental-montevideo;Junta Departamental de Montevideo;JDM;Grupo 6;portal;staging
+https://www.gub.uy/junta-nacional-drogas;Junta Nacional de Drogas;JND;Grupo 6;portal;produccion
+https://www1.gub.uy/junta-nacional-drogas;Junta Nacional de Drogas;JND;Grupo 6;portal;staging
+https://www.gub.uy/ministerio-desarrollo-social;Ministerio de Desarrollo Social;MIDES;Grupo 6;portal;produccion
+https://www1.gub.uy/ministerio-desarrollo-social;Ministerio de Desarrollo Social;MIDES;Grupo 6;portal;staging
+https://www.gub.uy/ministerio-economia-finanzas;Ministerio de Economía y Finanzas;MEF;Grupo 6;portal;produccion
+https://www1.gub.uy/ministerio-economia-finanzas;Ministerio de Economía y Finanzas;MEF;Grupo 6;portal;staging
+https://www.gub.uy/museos-espacios-culturales-mec;Museos y Espacios Culturales MEC;MEC;Grupo 6;portal;produccion
+https://www1.gub.uy/museos-espacios-culturales-mec;Museos y Espacios Culturales MEC;MEC;Grupo 6;portal;staging
+https://www.gub.uy/secretaria-inteligencia-estrategica-estado;Secretaría de Inteligencia Estratégica del Estado;SIEE;Grupo 6;portal;produccion
+https://www1.gub.uy/secretaria-inteligencia-estrategica-estado;Secretaría de Inteligencia Estratégica del Estado;SIEE;Grupo 6;portal;staging
+https://www.gub.uy/sistema-cuidados;Sistema Nacional Integrado de Cuidados;SNIC;Grupo 6;portal;produccion
+https://www1.gub.uy/sistema-cuidados;Sistema Nacional Integrado de Cuidados;SNIC;Grupo 6;portal;staging
+https://www.gub.uy/tribunal-cuentas;Tribunal de Cuentas;TC;Grupo 6;portal;produccion
+https://www.gub.uy/unidad-reguladora-control-datos-personales;Unidad Reguladora y de Control de Datos Personales;URCDP;Grupo 6;portal;produccion
+https://www1.gub.uy/unidad-reguladora-control-datos-personales;Unidad Reguladora y de Control de Datos Personales;URCDP;Grupo 6;portal;staging
+https://www.gub.uy/uruguay-digital;Uruguay Digital;UD;Grupo 6;portal;produccion
+https://www1.gub.uy/uruguay-digital;Uruguay Digital;UD;Grupo 6;portal;staging
+https://www.gub.uy/capacitaciones;Portal de Capacitaciones;CAPACITACIONES;Grupo 7;especial;produccion
+https://www1.gub.uy/capacitaciones;Portal de Capacitaciones;CAPACITACIONES;Grupo 7;especial;staging
+https://www.gub.uy/defensoria-de-vecinas-y-vecinos-de-montevideo;Defensoría del Vecino de Montevideo;DEFENSORIA;Grupo 7;portal;produccion
+https://www.gub.uy/fiscalia-general-nacion;Fiscalía General de la Nación;FGN;Grupo 7;portal;produccion
+https://www1.gub.uy/fiscalia-general-nacion;Fiscalía General de la Nación;FGN;Grupo 7;portal;staging
+https://www.gub.uy;Portal principal gub.uy;GUB;Grupo 7;portal;produccion
+https://www1.gub.uy;Portal principal gub.uy (staging);GUB;Grupo 7;portal;staging
+https://www.gub.uy/instituto-regulacion-control-cannabis;Instituto de Regulación y Control del Cannabis;IRCCA;Grupo 7;portal;produccion
+https://www1.gub.uy/instituto-regulacion-control-cannabis;Instituto de Regulación y Control del Cannabis;IRCCA;Grupo 7;portal;staging
+https://www.gub.uy/intendencia-florida;Intendencia de Florida;IF;Grupo 7;portal;produccion
+https://www1.gub.uy/intendencia-florida;Intendencia de Florida;IF;Grupo 7;portal;staging
+https://www1.gub.uy/mevir;Movimiento pro Erradicación de la Vivienda Insalubre Rural;MEVIR;Grupo 7;portal;staging
+https://www.gub.uy/ministerio-ambiente;Ministerio de Ambiente;MA;Grupo 7;portal;produccion
+https://www1.gub.uy/ministerio-ambiente;Ministerio de Ambiente;MA;Grupo 7;portal;staging
+https://www.gub.uy/oficina-nacional-servicio-civil;Oficina Nacional del Servicio Civil;ONSC;Grupo 7;portal;produccion
+https://www1.gub.uy/oficina-nacional-servicio-civil;Oficina Nacional del Servicio Civil;ONSC;Grupo 7;portal;staging
+https://www.gub.uy/perfil;Portal de Perfil ciudadano;PERFIL.GUB.UY;Grupo 7;especial;produccion
+https://www1.gub.uy/perfil;Portal de Perfil ciudadano;PERFIL.GUB.UY;Grupo 7;especial;staging
+https://www.gub.uy/salud-mental-adolescente;Portal Salud Mental Adolescente;MINISITIO SALUD MENTAL;Grupo 7;portal;produccion
+https://www1.gub.uy/secretaria-nacional-ciencia-valorizacion-conocimiento;Secretaría Nacional de Ciencia y Valorización del Conocimiento;SNCVC;Grupo 7;portal;staging
+https://www.gub.uy/unidad-gestion-deuda;Unidad de Gestión de Deuda;UGD;Grupo 7;portal;produccion
+https://www1.gub.uy/unidad-gestion-deuda;Unidad de Gestión de Deuda;UGD;Grupo 7;portal;staging
+https://www.gub.uy/ventanilla-unica-inversiones;Ventanilla Única de Inversiones;VUI;Grupo 7;portal;produccion
+https://www1.gub.uy/ventanilla-unica-inversiones;Ventanilla Única de Inversiones;VUI;Grupo 7;portal;staging
+https://www.gub.uy/intranet/arce;Agencia Reguladora de Compras Estatales - Intranet;ARCE;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/arce;Agencia Reguladora de Compras Estatales - Intranet;ARCE;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/fgn;Fiscalía General de la Nación - Intranet;FGN;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/fgn;Fiscalía General de la Nación - Intranet;FGN;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/ma;Ministerio de Ambiente - Intranet;MA;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/ma;Ministerio de Ambiente - Intranet;MA;Grupo 8;intranet;staging
+https://www1.gub.uy/intranet/mec;Ministerio de Educación y Cultura - Intranet;MEC;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/mgap;Ministerio de Ganadería, Agricultura y Pesca - Intranet;MGAP;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/mgap;Ministerio de Ganadería, Agricultura y Pesca - Intranet;MGAP;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/mides;Ministerio de Desarrollo Social - Intranet;MIDES;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/mides;Ministerio de Desarrollo Social - Intranet;MIDES;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/miem;Ministerio de Industria, Energía y Minería - Intranet;MIEM;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/miem;Ministerio de Industria, Energía y Minería - Intranet;MIEM;Grupo 8;intranet;staging
+https://www1.gub.uy/intranet/mintur;Ministerio de Turismo - Intranet;MINTUR;Grupo 8;intranet;staging
+https://www1.gub.uy/intranet/mrree;Ministerio de Relaciones Exteriores - Intranet;MRREE;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/msp;Ministerio de Salud Pública - Intranet;MSP;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/msp;Ministerio de Salud Pública - Intranet;MSP;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/mtop;Ministerio de Transporte y Obras Públicas - Intranet;MTOP;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/mtop;Ministerio de Transporte y Obras Públicas - Intranet;MTOP;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/mtss;Ministerio de Trabajo y Seguridad Social - Intranet;MTSS;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/mtss;Ministerio de Trabajo y Seguridad Social - Intranet;MTSS;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/mvot;Ministerio de Vivienda y Ordenamiento Territorial - Intranet;MVOT;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/mvot;Ministerio de Vivienda y Ordenamiento Territorial - Intranet;MVOT;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/presidencia;Presidencia de la República - Intranet;PR;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/presidencia;Presidencia de la República - Intranet;PR;Grupo 8;intranet;staging
+https://www.gub.uy/intranet/ursea;Unidad Reguladora de Servicios de Energía y Agua - Intranet;URSEA;Grupo 8;intranet;produccion
+https://www1.gub.uy/intranet/ursea;Unidad Reguladora de Servicios de Energía y Agua - Intranet;URSEA;Grupo 8;intranet;staging
+https://www.gub.uy/ministerio-trabajo-seguridad-social;Ministerio de Trabajo y Seguridad Social;MTSS;Grupo 8;portal;produccion
+https://www1.gub.uy/ministerio-trabajo-seguridad-social;Ministerio de Trabajo y Seguridad Social;MTSS;Grupo 8;portal;staging
+https://www.gub.uy/ayuda;Portal de Ayuda gub.uy;AYUDA;Grupo Catálogos;catalogo;produccion
+https://www1.gub.uy/ayuda;Portal de Ayuda gub.uy;AYUDA;Grupo Catálogos;catalogo;staging
+https://www.gub.uy/catalogo-institucional;Catálogo Institucional;CI;Grupo Catálogos;catalogo;produccion
+https://www1.gub.uy/catalogo-institucional;Catálogo Institucional;CI;Grupo Catálogos;catalogo;staging
+https://www.gub.uy/catalogo-participacion-ciudadana;Catálogo de Participación Ciudadana;CPC;Grupo Catálogos;catalogo;produccion
+https://www1.gub.uy/catalogo-participacion-ciudadana;Catálogo de Participación Ciudadana;CPC;Grupo Catálogos;catalogo;staging
+https://www.gub.uy/tramites;Portal de Trámites;CT;Grupo Catálogos;catalogo;produccion
+https://www1.gub.uy/tramites;Portal de Trámites;CT;Grupo Catálogos;catalogo;staging
+https://www.gub.uy/agencia-monitoreo-evaluacion-politicas-publicas;Agencia de Monitoreo y Evaluación de Políticas Públicas;AGEV;Presidencia;portal;produccion
+https://www1.gub.uy/agencia-monitoreo-evaluacion-politicas-publicas;Agencia de Monitoreo y Evaluación de Políticas Públicas;AGEV;Presidencia;portal;staging
+https://www.gub.uy/presidencia;Presidencia de la República;PR;Presidencia;portal;produccion
+https://www1.gub.uy/presidencia;Presidencia de la República;PR;Presidencia;portal;staging
