@@ -5,6 +5,7 @@ Punto de entrada principal del servidor.
 
 from fastmcp import FastMCP
 from tools.ejemplo import registrar_tools
+from tools.portales import registrar_tools as registrar_portales
 from resources.ejemplo import registrar_resources
 from prompts.ejemplo import registrar_prompts
 
@@ -19,6 +20,7 @@ mcp = FastMCP(
 
 # ─── Registro de componentes ──────────────────────────────────────────────────
 registrar_tools(mcp)
+registrar_portales(mcp)
 registrar_resources(mcp)
 registrar_prompts(mcp)
 

@@ -38,6 +38,7 @@ def registrar_tools(mcp: FastMCP) -> None:
         return a + b
 
     @mcp.tool
-    def listar_tools_disponibles() -> list[str]:
+    async def listar_tools_disponibles() -> list[str]:
         """Lista todos los tools registrados en el servidor ASINFU."""
-        return list(mcp._tool_manager._tools.keys())
+        tools = await mcp.list_tools()
+        return [t.name for t in tools]

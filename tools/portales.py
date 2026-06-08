@@ -44,9 +44,8 @@ def registrar_tools(mcp: FastMCP) -> None:
         mask = (
             df["url"].str.lower().str.contains(t) |
             df["nombre_largo"].str.lower().str.contains(t) |
-            df["nombre_corto"].str.lower().str.contains(t) |
             df["sigla"].str.lower().str.contains(t) |
-            df["grupo"].str.lower().str.contains(t)
+            df["grupo_portales"].str.lower().str.contains(t)
         )
 
         # df[mask] devuelve solo las filas donde mask es True.
@@ -65,7 +64,7 @@ def registrar_tools(mcp: FastMCP) -> None:
 
         # A diferencia de buscar_portal, acá usamos == (igual exacto) en vez de contains.
         # Solo devuelve filas donde el grupo coincide exactamente con lo buscado.
-        mask = df["grupo"].str.lower() == grupo.lower()
+        mask = df["grupo_portales"].str.lower() == grupo.lower()
 
         return df[mask].to_dict(orient="records")
 
@@ -79,11 +78,10 @@ def registrar_tools(mcp: FastMCP) -> None:
         df = cargar_datos()
         t = url_o_nombre.lower()
 
-        # Busca el portal en varias columnas (igual que buscar_portal pero sin el grupo)
+        # Busca en URL, nombre largo y sigla (no en grupo, porque justamente queremos encontrar el grupo)
         mask = (
             df["url"].str.lower().str.contains(t) |
             df["nombre_largo"].str.lower().str.contains(t) |
-            df["nombre_corto"].str.lower().str.contains(t) |
             df["sigla"].str.lower().str.contains(t)
         )
 
@@ -94,7 +92,7 @@ def registrar_tools(mcp: FastMCP) -> None:
             return {"error": f"No se encontró ningún portal para '{url_o_nombre}'"}
 
         # Solo devuelve las columnas relevantes (no todas), para una respuesta más limpia
-        return resultado[["url", "nombre_largo", "sigla", "grupo", "tipo", "ambiente"]].to_dict(orient="records")
+        return resultado[["url", "nombre_largo", "sigla", "grupo_portales", "tipo_ambiente", "ambiente_portal"]].to_dict(orient="records")
 
     @mcp.tool
     def resumen_por_grupo() -> list[dict]:
@@ -102,10 +100,10 @@ def registrar_tools(mcp: FastMCP) -> None:
         df = cargar_datos()
 
         resumen = (
-            df.groupby("grupo")       # Agrupa todas las filas por el valor de la columna "grupo"
-            .size()                   # Cuenta cuántas filas hay en cada grupo
-            .reset_index(name="cantidad")  # Convierte el resultado en una tabla con columna "cantidad"
-            .sort_values("grupo")     # Ordena alfabéticamente por nombre de grupo
+            df.groupby("grupo_portales")       # Agrupa todas las filas por el valor de la columna "grupo_portales"
+            .size()                            # Cuenta cuántas filas hay en cada grupo
+            .reset_index(name="cantidad")      # Convierte el resultado en una tabla con columna "cantidad"
+            .sort_values("grupo_portales")     # Ordena alfabéticamente por nombre de grupo
         )
 
         return resumen.to_dict(orient="records")

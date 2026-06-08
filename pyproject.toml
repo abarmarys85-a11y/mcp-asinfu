@@ -5,6 +5,7 @@ description = "Servidor MCP interno ASINFU - tools y recursos para equipos"
 requires-python = ">=3.11"
 dependencies = [
     "fastmcp>=2.0",
+    "pandas>=2.0",
 ]
 
 [project.scripts]
