@@ -25,6 +25,13 @@ registrar_resources(mcp)
 registrar_prompts(mcp)
 
 # ─── Ejecución ────────────────────────────────────────────────────────────────
+# Modo HTTP:  python server.py --http   (para probar desde el inspector)
+# Modo stdio: python server.py          (para Claude Desktop / Claude Code)
 
 if __name__ == "__main__":
-    mcp.run(transport="streamable-http", host="127.0.0.1", port=8000)
+    import sys, os
+    use_http = "--http" in sys.argv or os.environ.get("MCP_TRANSPORT") == "streamable-http"
+    if use_http:
+        mcp.run(transport="streamable-http", host="127.0.0.1", port=8000)
+    else:
+        mcp.run()

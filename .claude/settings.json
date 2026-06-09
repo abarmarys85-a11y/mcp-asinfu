@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "asinfu": {
+      "command": "C:\\Users\\abarmarys.enriquez\\.local\\bin\\uv.exe",
+      "args": [
+        "--directory",
+        "C:\\Users\\abarmarys.enriquez\\Documents\\MCP\\mcp-asinfu",
+        "run",
+        "server.py"
+      ]
+    }
+  }
+}

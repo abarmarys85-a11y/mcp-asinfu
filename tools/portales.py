@@ -21,7 +21,8 @@ def cargar_datos() -> pd.DataFrame:
     # Lee el CSV y lo convierte en una tabla (DataFrame).
     # dtype=str → trata todas las columnas como texto para evitar errores de tipo.
     # fillna("") → reemplaza las celdas vacías con texto vacío en lugar de NaN.
-    return pd.read_csv(DATA_PATH, dtype=str).fillna("")
+    # encoding="latin-1" → usa la codificación correcta del archivo
+    return pd.read_csv(DATA_PATH, dtype=str, encoding="latin-1", sep=";").fillna("")
 
 
 def registrar_tools(mcp: FastMCP) -> None:
